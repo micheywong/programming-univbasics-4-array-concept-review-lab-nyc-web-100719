@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  puts array[value_to_find]
+  while 
   if value_to_find
     puts "nil"
   end
