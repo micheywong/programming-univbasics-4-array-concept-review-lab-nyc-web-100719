@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   puts array[value_to_find]
-  if value_to_find.nil
+  elsif value_to_find.nil
     puts "nil"
 end
 
