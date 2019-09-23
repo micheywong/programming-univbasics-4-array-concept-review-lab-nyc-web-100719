@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   counter = 0 
   while counter < array.length do
-  array.find |index(value_to_find)|
+  find |index(value_to_find)|
   counter+=1
   end
 end
