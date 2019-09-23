@@ -4,11 +4,8 @@ def find_element_index(array, value_to_find)
   value_to_find=array[i]
   if value_to_find == array[i]
    return i
- end
-  i += 1
   end
-  if value_to_find
-    puts "nil"
+  i += 1
   end
 end
 
